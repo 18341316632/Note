@@ -19,6 +19,7 @@ public class Note {
         float f2 = 54.321f
     布尔型
         boolean表示真假，长度为1
+    String类型
 
 
 
